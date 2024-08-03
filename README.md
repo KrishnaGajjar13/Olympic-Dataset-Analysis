@@ -1,2 +1,1 @@
-# Olympic-Dataset-Analysis
-The Olympic Dataset project aims to provide a comprehensive analysis of the dataset containing information about athletes who participated in the Olympic Games.
+The Olympic Dataset project aims to provide a comprehensive analysis of the dataset containing information about athletes who participated in the Olympic Games. The dataset includes detailed attributes for each athlete such as their unique identifier, name, gender, age, height, weight, the team they represent, National Olympic Committee (NOC) code, the specific Olympic Games they participated in, the year, season, host city, sport category, specific event, and any medals won.
